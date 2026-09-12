@@ -1,1 +1,66 @@
+# ImageToolsPro
 
+Free browser-based image tools for compression, resizing, and image format conversion.
+
+🌐 Website: https://imagetoolspro.in/
+
+## About ImageToolsPro
+
+ImageToolsPro is a collection of simple, fast, and privacy-focused image tools that work directly in your web browser.
+
+You can compress, resize, and convert images without uploading them to a server.
+
+## Available Tools
+
+### Image Compression
+
+- Compress Image
+- Compress Image to 20KB
+- Compress Image to 30KB
+- Compress Image to 50KB
+- Compress Image to 100KB
+- Compress Image to 200KB
+- Compress Image to 500KB
+- Compress Image to Any Size
+
+### Image Conversion
+
+- JPG to PNG
+- PNG to JPG
+- JPG to WebP
+- WebP to JPG
+- PNG to WebP
+- WebP to PNG
+
+### Image Resizing
+
+- Resize Image
+
+## Privacy
+
+ImageToolsPro is designed with privacy in mind.
+
+Image processing is performed directly in the user's browser, so images do not need to be uploaded to a remote server.
+
+## Website
+
+Visit ImageToolsPro:
+
+https://imagetoolspro.in/
+
+## Main Tools
+
+Image Converter:
+https://imagetoolspro.in/image-converter
+
+Compress Image to Any Size:
+https://imagetoolspro.in/compress-image-to-any-size
+
+Compress Image:
+https://imagetoolspro.in/compress-image
+
+## Technology
+
+ImageToolsPro is built as a browser-based web application using modern web technologies.
+
+The tools are designed to provide fast image processing while keeping the user's files on their device.
